@@ -32,6 +32,3 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/kokastar/contributions.svg" />
   </a>
 </p>
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
