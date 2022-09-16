@@ -22,19 +22,22 @@
 
  
 <h3> 👨🏻•💻 about me</h3>
-- 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
 
-- 🎓 &nbsp; National Institute of Technology, Kisarazu College
+  - 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
 
-- 🌱 &nbsp; Learning about Machine Learning, Quantum computers.
+  - 🎓 &nbsp; National Institute of Technology, Kisarazu College
 
-- ✍️ &nbsp; Learning Python and C++.
+  - 🌱 &nbsp; Learning about Machine Learning, Quantum computers.
+
+  - ✍️ &nbsp; Learning Python and C++.
   
   
  ## statistics
    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=starkoka&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkoka&hide=jupyter%20notebook&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starkoka&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starkoka&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=starkoka&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=starkoka&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starkoka&theme=github_dark&utcOffset=8)
   
 
