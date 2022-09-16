@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/twitter/follow/kokastar_studio?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/starkoka">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/starkoka?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/kokastar">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kokastar/posts.svg" />
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![snake gif](https://github.com/starkoka/starkoka/blob/output/github-contribution-grid-snake.gif)
-
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
