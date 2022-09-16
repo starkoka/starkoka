@@ -33,8 +33,8 @@
   
  ##statistics
    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=starkoka)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkoka&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=starkoka&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkoka&hide=jupyter%20notebook&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
