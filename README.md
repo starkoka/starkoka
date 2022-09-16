@@ -49,13 +49,13 @@
  
   - 🐦 &nbsp; <a href="https://twitter.com/kokastar_studio">Twitter:kokastar_studio</a>
 
-  - 🐱 &nbsp; <a herf="https://scratch.mit.edu/users/kokastar/">Scratch:kokastar</a>
+  - 🐱 &nbsp; <a href="https://scratch.mit.edu/users/kokastar/">Scratch:kokastar</a>
 
-  - 📒 &nbsp; <a herf="https://note.com/kokastar">note:kokastar_studio</a>
+  - 📒 &nbsp; <a href="https://note.com/kokastar">note:kokastar_studio</a>
 
-  - 📝 &nbsp; <a herf="https://qiita.com/kokastar">qiita:kokastar</a>
+  - 📝 &nbsp; <a href="https://qiita.com/kokastar">qiita:kokastar</a>
   
-  - 💻 &nbsp; <a herf="https://atcoder.jp/users/kokastar">AtCoder:kokastar</a>
+  - 💻 &nbsp; <a href="https://atcoder.jp/users/kokastar">AtCoder:kokastar</a>
   
   
  ## statistics
