@@ -25,7 +25,7 @@
 
   - 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
 
-  - 🎓 &nbsp; National Institute of Technology, Kisarazu College
+  - 🎓 &nbsp; National Institute of Technology, Kisarazu College (Member of Robotics Research Club)
 
   - 🌱 &nbsp; Learning Python and C++.
 
