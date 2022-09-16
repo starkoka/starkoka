@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### kokastar
-<hr>
 
 <p align="left">
   <a href="https://github.com/starkoka/starkoka/">
@@ -21,7 +20,14 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on ...| Python | C/C++ | Node.js | 
-- 🌱 I’m currently learning ...National Institute of Technology, Kisarazu College
-- 📫 How to reach me: ...Send us a DM on Twitter(@kokastar_studio)
+ 
+- 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
+
+- 🎓 &nbsp; National Institute of Technology, Kisarazu College
+
+- 🌱 &nbsp; Learning about Machine Learning, Quantum computers.
+
+- ✍️ &nbsp; Learning Python and C++.
+
+  
 
