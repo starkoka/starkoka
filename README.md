@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3> kokastar </h3>
+## kokastar 
 
 <p align="left">
   <a href="https://github.com/starkoka/starkoka/">
@@ -21,6 +21,7 @@
 </p>
 
  
+  <h3> 
 - 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
 
 - 🎓 &nbsp; National Institute of Technology, Kisarazu College
@@ -28,6 +29,12 @@
 - 🌱 &nbsp; Learning about Machine Learning, Quantum computers.
 
 - ✍️ &nbsp; Learning Python and C++.
+  
+  
+ ##statistics
+   
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chizuchizu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chizuchizu&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
