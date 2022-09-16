@@ -27,9 +27,9 @@
 
   - 🎓 &nbsp; National Institute of Technology, Kisarazu College
 
-  - 🌱 &nbsp; Learning about Machine Learning, Quantum computers.
+  - 🌱 &nbsp; Learning Python and C++.
 
-  - ✍️ &nbsp; Learning Python and C++.
+  - ✍️ &nbsp; I started using with Scratch in the 10 years old and learned a little Python and C++ in middle school.
 
 <h3> 💻 about my environment</h3>
 
