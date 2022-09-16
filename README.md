@@ -1,19 +1,7 @@
 ### Hi there 👋
 
-<!--
-**starkoka/starkoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### kokastar
+<hr>
 
 <p align="left">
   <a href="https://github.com/starkoka/starkoka/">
@@ -32,3 +20,8 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/kokastar/contributions.svg" />
   </a>
 </p>
+
+- 🔭 I’m currently working on ...| Python | C/C++ | Node.js | 
+- 🌱 I’m currently learning ...National Institute of Technology, Kisarazu College
+- 📫 How to reach me: ...Send us a DM on Twitter(@kokastar_studio)
+
