@@ -44,7 +44,18 @@
   - 🪟 &nbsp; Windows 11
   
         I use it when I play  videogame(Genshin impact,APEX,Minecraft etc...).
+        
+ <h3>🔗 SNS Link</h3>
+ 
+  - 🐦 &nbsp; <a href="https://twitter.com/kokastar_studio">Twitter:kokastar_studio</a>
 
+  - 🐱 &nbsp; <a herf="https://scratch.mit.edu/users/kokastar/">Scratch:kokastar</a>
+
+  - 📒 &nbsp; <a herf="https://note.com/kokastar">note:kokastar_studio</a>
+
+  - 📝 &nbsp; <a herf="https://qiita.com/kokastar">qiita:kokastar</a>
+  
+  - 💻 &nbsp; <a herf="https://atcoder.jp/users/kokastar">AtCoder:kokastar</a>
   
   
  ## statistics
