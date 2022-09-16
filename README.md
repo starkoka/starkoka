@@ -25,11 +25,11 @@
 
   - 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
 
-  - 🎓 &nbsp; National Institute of Technology, Kisarazu College (Member of Robotics Research Club)
+  - 🎓 &nbsp; National Institute of Technology, Kisarazu College (Department of Computer Science and Engineering)
 
   - 🌱 &nbsp; Learning Python and C++.
 
-  - ✍️ &nbsp; I started using with Scratch in the 10 years old and learned a little Python and C++ in middle school.
+  - ✍️ &nbsp; I'm the team leader of Kisarazu B team at Kosen ROBOCON 2022
 
 <h3> 💻 about my environment</h3>
 
