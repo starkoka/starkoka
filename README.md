@@ -21,7 +21,7 @@
 </p>
 
  
-<h3> 👨🏻•💻 about me</h3>
+<h3> 👨🏻 about me</h3>
 
   - 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
 
@@ -30,6 +30,21 @@
   - 🌱 &nbsp; Learning about Machine Learning, Quantum computers.
 
   - ✍️ &nbsp; Learning Python and C++.
+
+<h3> 💻 about my environment</h3>
+
+  - 🗼 &nbsp; Arch Linux
+  
+        I usually use it when I'm coding.
+
+  - 🐈 &nbsp; Ubuntu 22.04
+  
+        I installed it in laptop and use when I'm on my way.
+  
+  - 🪟 &nbsp; Windows 11
+  
+        I use it when I play  videogame(Genshin impact,APEX,Minecraft etc...).
+
   
   
  ## statistics
