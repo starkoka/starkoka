@@ -21,7 +21,7 @@
 </p>
 
  
-  <h3> 
+<h3> 👨🏻•💻 about me</h3>
 - 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
 
 - 🎓 &nbsp; National Institute of Technology, Kisarazu College
@@ -31,7 +31,7 @@
 - ✍️ &nbsp; Learning Python and C++.
   
   
- ##statistics
+ ## statistics
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=starkoka&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkoka&hide=jupyter%20notebook&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
