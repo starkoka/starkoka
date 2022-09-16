@@ -33,7 +33,7 @@
 
 <h3> 💻 about my environment</h3>
 
-  - 🗼 &nbsp; Arch Linux
+  - 🗼 &nbsp; Arch Linux(i3-wm)
   
         I usually use it when I'm coding.
 
