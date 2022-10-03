@@ -33,11 +33,11 @@
 
 <h3> 💻 about my environment</h3>
 
-  - 🗼 &nbsp; Arch Linux(i3-wm)
+  - 🗼 &nbsp; Ubuntu 22.04(i3-wm)
   
         I usually use it when I'm coding.
 
-  - 🐈 &nbsp; Ubuntu 22.04
+  - 🐈 &nbsp; Ubuntu 22.04(GNOME)
   
         I installed it in laptop and use when I'm on my way.
   
