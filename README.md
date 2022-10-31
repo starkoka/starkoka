@@ -33,7 +33,7 @@
 
 <h3> 💻 about my environment</h3>
 
-  - 🗼 &nbsp; Ubuntu 22.04(i3-wm)
+  - 🗼 &nbsp; Alter Linux(i3-wm)
   
         I usually use it when I'm coding.
 
