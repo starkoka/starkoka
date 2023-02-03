@@ -39,11 +39,12 @@
 
   - 🐈 &nbsp; Ubuntu 22.04(GNOME)
   
-        I installed it in laptop and use when I'm on my way.
+        I use WSL2 and use it in a virtualized way.
   
   - 🪟 &nbsp; Windows 11
   
-        I use it when I play  videogame(Genshin impact,APEX,Minecraft etc...).
+        I use it when playing games (Genshin Impact, Honkai impact 3, etc.) and also have it installed on my laptop.
+        
         
  <h3>🔗 SNS Link</h3>
  
