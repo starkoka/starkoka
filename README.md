@@ -33,13 +33,13 @@
 
 <h3> 💻 about my environment</h3>
 
-  - 🗼 &nbsp; Alter Linux(i3-wm)
+  - 🇬️ &nbsp; Gentoo Linux
   
         I usually use it when I'm coding.
 
-  - 🐈 &nbsp; Ubuntu 22.04(GNOME)
+  - 🐈 &nbsp; Ubuntu 22.04
   
-        I use WSL2 and use it in a virtualized way.
+        I'm using that in WSL2.
   
   - 🪟 &nbsp; Windows 11
   
