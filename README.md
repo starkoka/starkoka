@@ -27,7 +27,7 @@
 
   - 🎓 &nbsp; National Institute of Technology, Kisarazu College (Department of Information and Computer Engineering 1st Grade)
 
-  - 🌱 &nbsp; Learning Python and C++
+  - 🌱 &nbsp; Learning Python and C++ for machine learning
 
   - ✍️ &nbsp; I'm the team leader of Kisarazu B team at Kosen ROBOCON 2022
 
