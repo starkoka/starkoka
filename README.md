@@ -33,10 +33,6 @@
 
 <h3> 💻 about my environment</h3>
 
-  - 🇬️ &nbsp; Gentoo Linux
-  
-        I usually use it when I'm coding.
-
   - 🐈 &nbsp; Ubuntu 22.04
   
         I'm using that in WSL2.
