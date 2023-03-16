@@ -32,6 +32,9 @@
   - ✍️ &nbsp; I'm the team leader of Kisarazu B team at Kosen ROBOCON 2022
 
 <h3> 💻 about my environment</h3>
+  
+  - 🟦 &nbsp; CentOS Stream 9
+        I'm using this as my main OS.
 
   - 🐈 &nbsp; Ubuntu 22.04
   
