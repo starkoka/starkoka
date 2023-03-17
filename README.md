@@ -34,6 +34,7 @@
 <h3> 💻 about my environment</h3>
   
   - 🟦 &nbsp; CentOS Stream 9
+    
         I'm using this as my main OS.
 
   - 🐈 &nbsp; Ubuntu 22.04
