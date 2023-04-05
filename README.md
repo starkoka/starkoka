@@ -25,7 +25,7 @@
 
   - 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
 
-  - 🎓 &nbsp; National Institute of Technology, Kisarazu College (Department of Information and Computer Engineering 1st Grade)
+  - 🎓 &nbsp; National Institute of Technology, Kisarazu College (Department of Information and Computer Engineering 2nd Grade)
 
   - 🌱 &nbsp; Learning Python and C++ for machine learning / Development of robot control using ROS
 
