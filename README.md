@@ -33,7 +33,7 @@
 
 <h3> 💻 about my environment</h3>
   
-  - 🟦 &nbsp; CentOS Stream 9
+  - 🟦 &nbsp; Crystal Linux
     
         I'm using this as my main OS.
 
