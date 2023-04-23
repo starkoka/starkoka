@@ -39,7 +39,7 @@
 
   - 🐈 &nbsp; Ubuntu 22.04
   
-        I'm using that in WSL2.
+        I'm using that in WSL2 and ROS.
   
   - 🪟 &nbsp; Windows 11
   
