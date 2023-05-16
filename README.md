@@ -29,7 +29,7 @@
 
   - 🌱 &nbsp; Learning Python , C++ and Rust / Development of robot control using ROS
 
-  - ✍️ &nbsp; Team Leader of Kosen ROBOCON 2022-B and 2023-B
+  - ✍️ &nbsp; Team Leader of Kosen ROBOCON 2022-B(フライト兄弟) and 2023-B
 
 <h3> 💻 about my environment</h3>
   
