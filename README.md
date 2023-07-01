@@ -9,7 +9,7 @@
   <a href="https://github.com/starkoka">
     <img height="20" src="https://img.shields.io/github/followers/starkoka?label=follow&logo=github&style=flat" />
   </a>
-    <a href="http://twitter.com/kokastar_ksrz">
+    <a href="http://twitter.com/kokastar_kosen">
     <img height="20" src="https://img.shields.io/twitter/follow/kokastar_studio?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/kokastar">
