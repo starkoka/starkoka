@@ -1,60 +1,50 @@
-### Hi there 👋
+<h1 align="center">I'm kokastar</h1>
 
-## kokastar 
 
-<p align="left">
-  <a href="https://github.com/starkoka/starkoka/">
-    <img src="https://komarev.com/ghpvc/?username=starkoka" alt="yutkat" />
-  </a>
-  <a href="https://github.com/starkoka">
-    <img height="20" src="https://img.shields.io/github/followers/starkoka?label=follow&logo=github&style=flat" />
-  </a>
-    <a href="http://twitter.com/kokastar_kosen">
-    <img height="20" src="https://img.shields.io/twitter/follow/kokastar_studio?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="http://qiita.com/kokastar">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kokastar/posts.svg" />
-  </a>
-  <//qiita.com/kokastar">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kokastar/contributions.svg" />
-  </a>
+<p align="center">
+  <a href="https://atcoder.jp/users/kokastar" target="_blank" title="kokastar"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fkokastar" /></a> 
+  <a href="https://wakatime.com/@bbdacbf7-1444-4488-999e-7482ce2f520d"><img src="https://wakatime.com/badge/user/bbdacbf7-1444-4488-999e-7482ce2f520d.svg" alt="Total time coded since Jun 27 2023" /></a>
+  
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starkoka&column=7&theme=onedark&margin-w=10&margin-h=10" alt="starkoka" /></a>
 </p>
 
+## 📝 Profile
+- about
+  - Student
+  - Competitive programmer
+  - DiscordBOT Developer
+  - Programming Enthusiast
+
+- Affiliation
+  - NIT, Kisarazu College (Information and Computer Engineering)
+  - Kisarazu Kosen Robotics Club
+
+- Age
+  - 16yo (2006-12/14)
+
+- Other
+  - Japanese Scratch Wiki Administrator
+  - Team Leader of Kosen ROBOCON 2023 Kisarazu-B
+  - Team Leader of Kosen ROBOCON 2022 Kisarazu-B(フライト兄弟)
+
+## 🌱 Skills
+### Language
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,bots,raspberrypi&theme=light"/> </a>
+### Tools
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git,github,linux,idea&theme=light"/> </a>
+### Learning
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker,ts,react,nextjs&theme=light"/> </a>
+
+## 🔗 SNS Link
  
-<h3> 👨🏻 about me</h3>
-
-  - 🤔 &nbsp; Development of DiscordBOT using Discord.js(node.js) and robot control using C
-
-  - 🎓 &nbsp; National Institute of Technology, Kisarazu College (Department of Information and Computer Engineering 2nd Grade)
-
-  - 🌱 &nbsp; Learning Python , C++ and Rust / Development of robot control using ROS
-
-  - ✍️ &nbsp; Team Leader of Kosen ROBOCON 2022-B(フライト兄弟) and 2023-B
-
-<h3> 💻 about my environment</h3>
-  
-  - 🟦 &nbsp; Crystal Linux
-    
-        I'm using this as my main OS.
-
-  - 🐈 &nbsp; Ubuntu 22.04
-  
-        I'm using that in WSL2 and development ROS.
-  
-  - 🪟 &nbsp; Windows 11
-  
-        I use it when playing games (Genshin Impact, Honkai impact 3, etc.) and also have it installed on my laptop.
-        
-        
- <h3>🔗 SNS Link</h3>
- 
-  - 🐦 &nbsp; <a href="https://twitter.com/kokastar_studio">Twitter:kokastar_studio</a>
+  - 🐦 &nbsp; <a href="https://twitter.com/kokastar_kosen">Twitter:kokastar_kosen</a>
 
   - 🐱 &nbsp; <a href="https://scratch.mit.edu/users/kokastar/">Scratch:kokastar</a>
 
-  - 📒 &nbsp; <a href="https://note.com/kokastar">note:kokastar_studio</a>
+  - 📒 &nbsp; <a href="https://zenn.dev/kokastar">Zenn:kokastar</a>
 
-  - 📝 &nbsp; <a href="https://qiita.com/kokastar">qiita:kokastar</a>
+  - 📝 &nbsp; <a href="https://qiita.com/kokastar">Qiita:kokastar</a>
   
   - 💻 &nbsp; <a href="https://atcoder.jp/users/kokastar">AtCoder:kokastar</a>
   
