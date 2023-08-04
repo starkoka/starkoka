@@ -14,7 +14,7 @@
   - Student
   - Competitive programmer
   - DiscordBOT Developer
-  - Programming Enthusiast
+  - Engineer...?
 
 - Affiliation
   - NIT, Kisarazu College (Information and Computer Engineering)
@@ -49,7 +49,7 @@
   - 💻 &nbsp; <a href="https://atcoder.jp/users/kokastar">AtCoder:kokastar</a>
   
   
- ## statistics
+ ## 📈 statistics
    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starkoka&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starkoka&theme=github_dark)
