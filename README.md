@@ -30,11 +30,11 @@
 
 ## 🌱 Skills
 ### Language
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,bots,raspberrypi&theme=light"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,ts,bots,raspberrypi&theme=light"/> </a>
 ### Tools
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git,github,linux,idea&theme=light"/> </a>
 ### Learning
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker,ts,react,nextjs&theme=light"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker,react,nextjs&theme=light"/> </a>
 
 ## 🔗 SNS Link
  
