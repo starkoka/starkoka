@@ -12,7 +12,7 @@
 ## 📝 Profile
 - about
   - Student
-  - Competitive programmer
+  - Competitive programmer(AtCoder Algo:brown)
   - DiscordBOT Developer
   - Engineer...?
 
