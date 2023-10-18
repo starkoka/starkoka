@@ -25,7 +25,7 @@
 
 - Other
   - Japanese Scratch Wiki Administrator
-  - Team Leader of Kosen ROBOCON 2023 Kisarazu-B
+  - Team Leader of Kosen ROBOCON 2023 Kisarazu-B(TAKE採物語)
   - Team Leader of Kosen ROBOCON 2022 Kisarazu-B(フライト兄弟)
 
 ## 🌱 Skills
