@@ -18,7 +18,8 @@
 
 - Affiliation
   - NIT, Kisarazu College (Information and Computer Engineering)
-  - Kisarazu Kosen Robotics Club
+  - Kisarazu KOSEN Robotics Club
+  - Kisarazu KOSEN Programming Club
 
 - Age
   - 16yo (2006-12/14)
