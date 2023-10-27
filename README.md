@@ -17,7 +17,7 @@
   - Engineer...?
 
 - Affiliation
-  - NIT, Kisarazu College (Information and Computer Engineering)
+  - NIT, Kisarazu College (Information and Computer Engineering 2rd grade)
   - Kisarazu KOSEN Robotics Club
   - Kisarazu KOSEN Programming Club
 
