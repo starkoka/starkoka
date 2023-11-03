@@ -35,7 +35,7 @@
 ### Tools
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git,github,linux,idea&theme=light"/> </a>
 ### Learning
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker,react,nextjs&theme=light"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker,react,nextjs,rust&theme=light"/> </a>
 
 ## 🔗 SNS Link
  
