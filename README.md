@@ -22,7 +22,7 @@
   - Kisarazu KOSEN Programming Club
 
 - Age
-  - 16yo (2006-12/14)
+  - 17yo (2006-12/14)
 
 - Other
   - Japanese Scratch Wiki Administrator
