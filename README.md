@@ -39,7 +39,7 @@
 
 ## 🔗 SNS Link
  
-  - 🐦 &nbsp; <a href="https://twitter.com/kokastar_kosen">Twitter:kokastar_kosen</a>
+  - 🐦 &nbsp; <a href="https://twitter.com/kokastar_dev">Twitter:kokastar_dev</a>
 
   - 🐱 &nbsp; <a href="https://scratch.mit.edu/users/kokastar/">Scratch:kokastar</a>
 
