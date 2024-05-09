@@ -26,9 +26,9 @@
 
 - Other
   - Japanese Scratch Wiki Administrator
-  - Main control system developer of Kosen ROBOCON 2024 Kisarazu A&B
-  - Team Leader of Kosen ROBOCON 2023 Kisarazu B(TAKE採物語)
-  - Team Leader of Kosen ROBOCON 2022 Kisarazu B(フライト兄弟)
+  - Kosen ROBOCON 2024 Kisarazu A&B  　　　　　　 Main control system developer
+  - Kosen ROBOCON 2023 Kisarazu B(TAKE採物語)    Team Leader
+  - Kosen ROBOCON 2022 Kisarazu B(フライト兄弟) 　Team Leader
 
 ## 🌱 Skills
 ### Language
