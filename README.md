@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <a href="https://atcoder.jp/users/kokastar" target="_blank" title="kokastar"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fkokastar" /></a>
+  <a href="https://atcoder.jp/users/kokastar" target="_blank" title="kokastar"><img src="https://img.shields.io/endpoint?url=https://kokastar.dev/api/atcoder" /></a>
+  <a href="https://atcoder.jp/users/kokastar" target="_blank" title="kokastar"><img src="https://img.shields.io/endpoint?url=https://kokastar.dev/api/atcoder?type=h" /></a>
   <a href="https://wakatime.com/@bbdacbf7-1444-4488-999e-7482ce2f520d"><img src="https://wakatime.com/badge/user/bbdacbf7-1444-4488-999e-7482ce2f520d.svg" alt="Total time coded since Jun 27 2023" /></a>
   
 <p align="center"> 
