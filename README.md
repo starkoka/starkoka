@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://atcoder.jp/users/kokastar" target="_blank" title="kokastar"><img src="https://img.shields.io/endpoint?url=https://kokastar.dev/api/atcoder" /></a>
-  <a href="https://atcoder.jp/users/kokastar" target="_blank" title="kokastar"><img src="https://img.shields.io/endpoint?url=https://kokastar.dev/api/atcoder?type=h" /></a>
+  <a href="https://atcoder.jp/users/kokastar?contestType=heuristic" target="_blank" title="kokastar"><img src="https://img.shields.io/endpoint?url=https://kokastar.dev/api/atcoder?type=h" /></a>
   <a href="https://wakatime.com/@bbdacbf7-1444-4488-999e-7482ce2f520d"><img src="https://wakatime.com/badge/user/bbdacbf7-1444-4488-999e-7482ce2f520d.svg" alt="Total time coded since Jun 27 2023" /></a>
   
 <p align="center"> 
